@@ -13,6 +13,6 @@ Design Dr Pepper's new infrastructure for AWS to be resilient to failure and hig
 Task 2
 ------
 
-Dr Pepper has a hobby collecting stamps and has asked you to write a Bash script to process all known stamps from https://gist and upload the result to s3. He would like the stamps grouped by country and sorted by release date. He would also like to know how many stamps have been release for each county. Dr Pepper's grandson's gf's uncle mentioned something about `jq`.
+Dr Pepper has a hobby collecting cars and has asked you to write a Bash script to process all cars models from http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes and upload the result to s3. He would like the cars grouped by country and sorted in descending order by name. He would also like to know how many cars have been release for each county. Dr Pepper's grandson's gf's uncle mentioned something about `jq`.
 
 Upload the result to s3://bucket/{first_name}-{last_name}.json with the credentials you have been granted.
