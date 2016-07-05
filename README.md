@@ -8,7 +8,7 @@ Dr Pepper's grandson's girlfriend's uncle built a monolithic PHP application wit
 Before you Begin
 ----------------
 
-You should have received some AWS credentials, if you haven't please send us your keybase.io username so we can encrypt the credentials for you. If you don't have a keybase.io account let us know and we'll send you an invite. Next create a private github repository to contain your work and grant coen.hyde@gmail.com read access to the repository.
+You should have received some AWS credentials, if you haven't please send us your keybase.io username so we can encrypt the credentials for you. If you don't have a keybase.io account let us know and we'll send you an invite. Next create a github repository to contain your work. Grant coen.hyde@gmail.com read access to the repository if you created a private repo.
 
 Task 1
 ------
