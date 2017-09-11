@@ -15,7 +15,7 @@ Task 1
 
 Design Dr Pepper's new infrastructure for AWS to be resilient to failure and highly secure. For the moment, it is not feasible to redesign the application, but they are open for suggestions for modifications once the initial migration is complete. Please explain to the proposed architecture. You do not need to implement the infrastructure, just show how it should be done.
 
-PS This task is intentionally vague. If you have questions, make an assumtion and document it.
+PS This task is intentionally vague. If you have questions, make an assumption and document it.
 
 Task 2
 ------
